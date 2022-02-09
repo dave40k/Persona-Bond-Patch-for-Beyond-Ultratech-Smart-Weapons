@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Persona Bond Patch for Beyond Ultratech: Smart Weapons</name>
+	<author>Daria40K</author>
+	<packageId>Daria40K.PersonaBondPatch.BeyondUltratechSmart</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Persona Bond Patch for SNS: Ambition of the Cosmic</description>
+    <modDependencies>
+        <li>
+            <packageId>xedos.personabond</packageId>
+            <displayName>Persona Bond Forge</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2178003816</steamWorkshopUrl>
+        </li>
+
+        <li>
+            <packageId>beyondultra.smartweapons</packageId>
+            <displayName>Beyond Ultratech: Smart Weapons</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2636816296</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
